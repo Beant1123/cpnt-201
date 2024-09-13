@@ -12,7 +12,15 @@
 ## jollif rice
 ## butter chicken
 
+I love butter chicken
+
+
 ![I love dogs](Images/image1.jpg)
 ![nature beauty](Images/image2.jpg)
+
+## recipes instructions
+- add some onions
+- add 
+
 
 
